@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## App Purpose
 
-You can use the [editor on GitHub](https://github.com/Pashcal/rows/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rows app was created for measuring coefficient of visual attention concentration and we will try to help improve it in long term 😉
+It's basing on Landolt's rings. You need to go though them one by one, rows by rows and select all items whish is the equal to the correct item in the bottom of screen. Basing on you selections we will calculate all possible metrics of concenration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contacts
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pashcal/rows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With any questions don't hesitate to write to our email <rows.apcode@yandex.ru>
